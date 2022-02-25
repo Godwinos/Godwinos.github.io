@@ -29,6 +29,7 @@ Still fetching some pics...
 ---
 Off topic but, in all seriousness— prayers for Ukraine 🔵🟡
 ---
+
 Links:
 
-![Sir Gain's Page](https://www.example.com)
+[Sir Gain's Page](https://www.example.com)
