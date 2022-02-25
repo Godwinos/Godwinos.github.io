@@ -13,7 +13,7 @@
 - They're both Shih Tzus
 - They're brothers!
 
----
+**――――――――――――――――――――――――――――――――――――**
 ## Pictures of Sky and Clyde
 ### *— Sky Below! —*
 ![Close-up doggo sky](https://user-images.githubusercontent.com/99781454/155653210-2a592fab-eff7-448e-83b3-feb8461ae3f0.jpg)
@@ -24,6 +24,8 @@ Still fetching some pics...
 
 
 Thank you tuning by!
+
+
 **――――――――――――――――――――――――――――――――――――**
 Off topic but, in all seriousness— prayers for Ukraine 🔵🟡
 **――――――――――――――――――――――――――――――――――――**
